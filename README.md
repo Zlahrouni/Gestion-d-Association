@@ -1,1 +1,21 @@
 # Gestion d'Association
+
+Cette application est faite lors d'un projet de groupe pendant pendant ma License (L3 CDA), on est un groupe de 4 personne dont je suis le chef de projet, on a travailler en methodologie agile (scrum).
+
+### Environement technique : 
+
+Java          - Langage de programation <br>
+GitLab        - Outils Git de suivi du projet <br>
+Scene Builder - Concepteur d'interface graphique <br>
+CheckStyle    - Outils Contrôle de code <br>
+JUnit         - Framework de test unitaire <br>
+JavaFX        - Framework & Bibliothèque Java <br>
+
+### Interface de l'application :
+![Screenshot 2022-12-23 110838](https://user-images.githubusercontent.com/75903708/209320993-50bc02a0-7380-42f7-975c-5308ff4632ce.png)
+
+## Pre-requis pour lancer le jar
+[jdk1.8.0_202](https://www.oracle.com/java/technologies/javase/javase8-archive-downloads.html) <br>
+Si vous voulez lancer le jar il suffit just de tapper cette commande de l'endroit le il y a le jar : <br>
+``` & 'C:\Program Files\Java\jdk1.8.0_202\bin\java.exe' -jar .\GestionAssociation.jar ```
+
