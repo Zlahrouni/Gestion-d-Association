@@ -1,4 +1,6 @@
-# Gestion d'Association
+# Gestion d'Association 
+
+- Ce programme n'est disponible qu'en français (This program is only available in French.)
 
 Cette application est faite lors d'un projet de groupe pendant pendant ma License (L3 CDA), on est un groupe de 4 personne dont je suis le chef de projet, on a travailler en methodologie agile (scrum).
 
